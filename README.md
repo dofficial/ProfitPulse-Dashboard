@@ -1,6 +1,6 @@
 # 📊 ProfitPulse Dashboard (Excel)
 
-![Dashboard Screenshot](Screenshot%202025-09-22%20023213.png)
+![Dashboard Screenshot](https://github.com/dofficial/ProfitPulse-Dashboard/edit/main/Screenshot.png)
 
 ## 📌 Project Overview  
 The **ProfitPulse Dashboard** is a professional **Sales & Profit Analysis Dashboard** built in Microsoft Excel.  
